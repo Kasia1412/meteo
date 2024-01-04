@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<weatherData>
+  <Poznan>
+    <weatherTime>2024-01-04 18:50:52</weatherTime>
+    <pressure>1001</pressure>
+    <temp>274.95</temp>
+    <humidity>78</humidity>
+    <visibility>10000</visibility>
+  </Poznan>
+</weatherData>

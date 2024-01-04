@@ -1,0 +1,22 @@
+city-reader:
+  cityFilePath: src/main/resources/cities/cities.json
+
+json:
+  path: src/main/resources/generated/json/
+
+pdf:
+  path: src/main/resources/generated/pdf/
+
+xml:
+  path: src/main/resources/generated/xml/
+
+external:
+  rest:
+    connectTimeout: 30000
+    readTimeout: 30000
+    writeTimeout: 30000
+  open-weather:
+    url: https://api.openweathermap.org/
+    apiKey: c6b31cccc0cf17209d86e2963cae46cf
+
+

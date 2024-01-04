@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ks.study.meteo.city.service.CityReaderServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-01-04T18:30:32" hostname="pc19b" time="0.671">
+  <properties/>
+  <testcase name="shouldReturnExceptionWhenTryToLoadCities()" classname="com.ks.study.meteo.city.service.CityReaderServiceTest" time="0.319"/>
+  <testcase name="shouldLoadCitiesFileToMap()" classname="com.ks.study.meteo.city.service.CityReaderServiceTest" time="0.34"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
